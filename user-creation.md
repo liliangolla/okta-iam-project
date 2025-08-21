@@ -1,4 +1,4 @@
-Steps to Create a User
+# Steps to Create a User
 1. Log into Okta Admin
 Go to your Okta admin URL (usually something like yourcompany-admin.okta.com)
 Sign in with your admin credentials
